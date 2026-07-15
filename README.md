@@ -61,55 +61,31 @@ I'm currently deepening my grasp of core JavaScript and React fundamentals — d
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:00D4FF,100:0D1117&height=2&section=header" width="100%"/>
 
 
-## Tech Stack
+# 🚀 Tech Stack
 
-<div align="center">
+### Frontend
 
-<strong>Frontend</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,bootstrap,materialui&theme=dark"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux,mui" />
+</p>
 
+### Backend
 
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<strong>Backend</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-&nbsp;
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-7C3AED?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-00D4FF?style=flat-square&logoColor=white)
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
 
+### DevOps & Cloud
 
-<strong>Languages</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=js,ts&theme=dark"/>
-
-
-<strong>Databases</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&theme=dark"/>
-&nbsp;
-![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-
-
-<strong>Cloud &amp; Hosting</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify&theme=dark"/>
-&nbsp;
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-
-
-
-<strong>DevOps &amp; Tools</strong>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,postman,vscode&theme=dark"/>
-
-<br/><br/>
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,git,github,postman" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:3B82F6,100:0D1117&height=2&section=header" width="100%"/>
 
