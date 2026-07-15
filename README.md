@@ -1,23 +1,209 @@
-<h1 align="center">👋 Hi, I'm Umar – Your Partner in Modern Web Solutions </h1>
-<h3 align="center">A passionate MERN Stack developer</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **School Management App**
+# 👋 Hi, I'm Muhammad Umar Hussain
 
-- 🌱 I’m currently Working as a MERN Stack Developer in **Next.js**
+### 🚀 Full Stack MERN Developer | Next.js | TypeScript | Node.js
 
-- 📫 How to reach me **mumarhussain126@gmail.com**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Next.js+%7C+TypeScript+%7C+Node.js;Building+Scalable+Web+Applications;AI+Powered+Applications;Always+Learning+New+Technologies" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mumarhussain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mumarhussain/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/umarhussain230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/umarhussain230" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/umarhussain230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/umarhussain230" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucncheyhstuhxiofkrw_bgqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucncheyhstuhxiofkrw_bgqg" height="30" width="40" /></a>
+</div>
+
+---
+
+# 💫 About Me
+
+I'm a **Full Stack MERN Developer** with **3+ years of professional experience** building scalable, high-performance web applications.
+
+I enjoy designing clean architectures, developing production-ready REST APIs, and building modern user experiences using React and Next.js.
+
+Currently, I'm working on enterprise-grade applications while continuously exploring AI integrations, scalable backend systems, and cloud technologies.
+
+- 💼 MERN Stack Developer
+- 🔭 Currently building **School Management System**
+- 🌱 Learning **AWS, Docker, System Design & Microservices**
+- 🤖 Interested in **AI-powered Web Applications**
+- 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, PostgreSQL**
+- ⚡ I love optimizing applications for performance and scalability.
+
+---
+
+# 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux,mui" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mumarhussain&show_icons=true&locale=en&layout=compact" alt="mumarhussain" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+### Databases
 
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,linux,git,github,postman" />
+</p>
+
+### Currently Exploring
+
+- AI Integrations
+- RAG Applications
+- LangChain
+- Docker
+- AWS
+- Microservices
+- System Design
+
+---
+
+# 💼 Professional Highlights
+
+✅ 3+ Years of Professional Experience
+
+✅ Production-Ready Full Stack Applications
+
+✅ REST API Design & Development
+
+✅ Real-Time Applications
+
+✅ Authentication & Authorization
+
+✅ Admin Dashboards
+
+✅ Performance Optimization
+
+✅ AI Powered Applications
+
+✅ PostgreSQL • MongoDB • MySQL
+
+---
+
+# 🏆 Featured Projects
+
+## 🤖 Character AI
+
+AI-powered character chatting platform built with
+
+- Next.js
+- Node.js
+- MongoDB
+- JWT Authentication
+- Real-time Chat
+- Admin Dashboard
+
+---
+
+## 🔍 PlagiarismGuard
+
+AI & Plagiarism Detection Platform
+
+- AI-generated content detection
+- Similarity Analysis
+- REST APIs
+- Reporting Dashboard
+
+---
+
+## 🌐 Optilinko
+
+Enterprise SEO Platform
+
+- MERN Stack
+- MySQL
+- REST APIs
+- Admin Dashboard
+- Performance Optimizations
+
+---
+
+## 📚 School Management System
+
+Current Project
+
+- Next.js
+- TypeScript
+- PostgreSQL
+- Drizzle ORM
+- RBAC
+- Dashboard
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mumarhussain&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumarhussain&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mumarhussain&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mumarhussain&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🛠️ Tools I Use
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,npm,yarn,figma,docker,linux" />
+
+</p>
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/mumarhussain">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:mumarhussain126@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+📧 **Email:** mumarhussain126@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/mumarhussain
+
+---
+
+<div align="center">
+
+### 💻 "Code. Learn. Build. Repeat."
+
+![](https://komarev.com/ghpvc/?username=mumarhussain&style=for-the-badge)
+
+</div>
