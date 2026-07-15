@@ -19,7 +19,7 @@ I enjoy designing clean architectures, developing production-ready REST APIs, an
 Currently, I'm working on enterprise-grade applications while continuously exploring AI integrations, scalable backend systems, and cloud technologies.
 
 - 💼 MERN Stack Developer
-- 🔭 Currently building **School Management System**
+- 🔭 Currently building **Optilinko - Real-Time AI-Powered 360 Data Stack for Experts**
 - 🌱 Learning **AWS, Docker, System Design & Microservices**
 - 🤖 Interested in **AI-powered Web Applications**
 - 💬 Ask me about **React, Next.js, Node.js, Express, MongoDB, PostgreSQL**
@@ -87,8 +87,21 @@ Currently, I'm working on enterprise-grade applications while continuously explo
 
 ---
 
+
+
 # 🏆 Featured Projects
 
+## 🌐 Optilinko
+
+Enterprise SEO Platform
+
+- MERN Stack
+- MySQL
+- REST APIs
+- Admin Dashboard
+- Performance Optimizations
+
+---
 ## 🤖 Character AI
 
 AI-powered character chatting platform built with
@@ -113,18 +126,6 @@ AI & Plagiarism Detection Platform
 
 ---
 
-## 🌐 Optilinko
-
-Enterprise SEO Platform
-
-- MERN Stack
-- MySQL
-- REST APIs
-- Admin Dashboard
-- Performance Optimizations
-
----
-
 ## 📚 School Management System
 
 Current Project
@@ -135,18 +136,6 @@ Current Project
 - Drizzle ORM
 - RBAC
 - Dashboard
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mumarhussain&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mumarhussain&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
