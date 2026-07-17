@@ -108,14 +108,9 @@ I'm currently deepening my grasp of core JavaScript and React fundamentals — d
 
 ## GitHub Statistics
 
-<div align="center">
-
-
+<div >
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mumarhussain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7C3AED&point=3B82F6&area=true&area_color=00D4FF" width="95%"/>
-
 <br/>
-
-
 </div>
 
 
