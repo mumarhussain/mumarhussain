@@ -110,9 +110,6 @@ I'm currently deepening my grasp of core JavaScript and React fundamentals — d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mumarhussain&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=7C3AED&currStreakLabel=00D4FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%"/>
-
-<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mumarhussain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=7C3AED&point=3B82F6&area=true&area_color=00D4FF" width="95%"/>
 
