@@ -16,7 +16,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%"/>
 
-<div align="center">
+<div align="centers">
 
 <a href="#about-me">About</a> •
 <a href="#tech-stack">Stack</a> •
